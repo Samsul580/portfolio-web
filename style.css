@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.welcome {
+    background: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+.wel-text {
+    width: 40%;
+    float: left;
+    padding: 0 100px;
+}
+.wel-text h1 {
+    font-size: 50px;
+    margin: 50px 0;
+}
+.wel-text .name {
+    color: orange;
+}
+.wel-text h4 {
+    font-size: 18px;
+    margin: 15px 0;
+}
+.wel-text p {
+    color: dimgray;
+    margin-bottom: 20px;
+}
+.wel-text a {
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(to right, tomato, rgb(129, 63, 37));
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.wel-img {
+    width: 40%;
+    float: left;
+    text-align: center;
+}
+.wel-img img {
+    width: 100%;
+    background-size: auto;
+    
+}
+.dream {
+    background: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    margin-bottom: 50px;
+    background-position: right; 
+}
+.dream-img {
+    width: 40%;
+    float: left;
+    text-align: center;
+}
+.dream-img img {
+    width: 100%;
+    background-size: auto;
+    padding-left: 100px;
+}
+.dream-text {
+    width: 40%;
+    float: left;
+    padding: 0 100px;
+}
+.dream-text h1 {
+    font-size: 50px;
+    margin: 50px 0;
+    padding-left: 100px;
+}
+.dream-text h4 {
+    font-size: 18px;
+    margin: 15px 0;
+    padding-left: 100px;
+}
+.dream-text p {
+    color: dimgray;
+    margin-bottom: 20px;
+    padding-left: 100px;
+}.dream-text a {
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(to right, tomato, rgb(129, 63, 37));
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-left: 100px;
+}
+.exprience {
+    background: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    margin-bottom: 100px;
+    background-position: right;
+}
+.exprience h1 {
+    font-size: 40px;
+    text-align: left;
+    margin: 30px 0;
+}
+.full-web {
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+    box-shadow: 10px 10px 40px gray;
+    height: 300px;
+    padding: 15px;
+}
+.baby-web {
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+    box-shadow: 10px 10px 40px gray;
+    height: 300px;
+    padding: 15px;
+}
+.footer {
+    margin-top: 200px;
+}
